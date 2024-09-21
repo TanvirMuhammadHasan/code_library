@@ -133,4 +133,4 @@ int main()
   t=1;  
   //cin >> t;
   for(int test = 1;test <= t;++test) solve(test);
-}
+} // https://cses.fi/problemset/task/1194/
