@@ -1,3 +1,4 @@
+// it can also be done with dfs by saiving end time of every node but in this way u have to check whether it is an cycle or not seperately 
 #include<bits/stdc++.h>
 using namespace std;
 
